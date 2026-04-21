@@ -1,0 +1,24 @@
+site_name: Conteúdos de Aula
+
+theme:
+  name: material
+  language: pt-BR
+  palette:
+    - scheme: default
+      primary: blue
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Modo escuro
+    - scheme: slate
+      primary: blue
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+
+nav:
+  - Início: index.md
+  - DW1:
+      - Visão Geral: ALP/index.md
+      - Aula 1 - HTML: ALP/aula1-introducao.md
