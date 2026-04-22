@@ -108,81 +108,104 @@ border-radius:8px;
 <p align="justify">Existem algumas formas de representação de algoritmos computacionais na literatura, sendo as 3 principais: Descrição narrativa, Fluxograma e o Portugol.</p>
 
 ### DESCRIÇÃO NARRATIVA
-- É uma forma de representação considerada simples e fácil de utilizar, pois os algoritmos são escritos em linguagem natural (português, entre outras), com a qual já temos contato no nosso dia a dia, sendo uma vantagem em relação a uma linguagem que não tem um uso frequente no nosso cotidiano.
+<p align="justify">É uma forma de representação considerada simples e fácil de utilizar, pois os algoritmos são escritos em linguagem natural (português, entre outras), com a qual já temos contato no nosso dia a dia, sendo uma vantagem em relação a uma linguagem que não tem um uso frequente no nosso cotidiano.</p>
 
-- Mas ela é um tipo pouco utilizado, pois muitas vezes uma palavra pode ter muitos significados, dependendo do contexto no qual são utilizadas, gerando assim ambiguidades e imprecisões. Em comparação com a linguagem de programação, a linguagem natural é abstrata, imprecisa e pouco confiável. Isso poderia trazer problemas na hora de transcrever o algoritmo para o programa.
+<p align="justify">Mas ela é um tipo pouco utilizado, pois muitas vezes uma palavra pode ter muitos significados, dependendo do contexto no qual são utilizadas, gerando assim ambiguidades e imprecisões. Em comparação com a linguagem de programação, a linguagem natural é abstrata, imprecisa e pouco confiável. Isso poderia trazer problemas na hora de transcrever o algoritmo para o programa.</p>
 
----
+<div style="
+background-color:#FFF5F5;
+border-left:6px solid #EF5552;
+padding:15px;
+margin:20px 0;
+border-radius:8px;
+">
 
-![Imagem](/assets/img\slide_23_fb1408.png)
+<strong>📦 SITUAÇÃO-PROBLEMA 01: ALGORITMO PREPARAR OMELETE</strong>
 
-## 📌 SITUAÇÃO-PROBLEMA 01
+<P align="justify"> Ana é uma jovem universitária que mora atualmente sozinha e como passa muito tempo na faculdade acaba preparando pratos rápidos na cozinha. Deseja preparar uma omelete para o jantar e possui os seguintes ingredientes em casa: 2 ovos, sal, presunto, queijo e tempero verde. Como Ana poderia criar um algoritmo para auxiliá-la na tarefa de preparar uma omelete? </p>
 
+<p align="center">
+  <img src="/assets/img/slide_23_fb1408.png" width="60%"> </p>
 
----
+<ol>
+  <li>teste</li>
+</ol>
 
-![Imagem](/assets/img\slide_24_e34b6f.png)
-## 📌 SITUAÇÃO-PROBLEMA 02
+</div>
 
+<div style="
+background-color:#FFF5F5;
+border-left:6px solid #EF5552;
+padding:15px;
+margin:20px 0;
+border-radius:8px;
+">
 
----
+<strong>📦 SITUAÇÃO-PROBLEMA 02: ORGANIZAR REVISTAS</strong>
 
-## 📌 FLUXOGRAMA
+<p align="justify"> Maria investiu suas economias em uma banca de revistas em quadrinhos que fica localizada no centro da cidade. Pretende organizar as publicações nas 5 estantes da banca para melhorar o atendimento. Nos primeiros meses, percebeu que os seus clientes costumam comprar as edições com base nos seguintes gêneros: fantasia, terror, comédia, romance e super-heróis. Qual a sequência de passos que Maria deve executar para conseguir organizar a sua banca de revistas em quadrinhos? </p>
+
+<p align="center">
+  <img src="/assets/img/slide_24_e34b6f.png" width="60%"> </p>
+
+</div>
+
+### 📌 FLUXOGRAMA
 - É conhecida na literatura também como Diagrama de Fluxo ou Diagrama de Bloco. São utilizadas formas geométricas padronizadas para descrever a sequência de passos a serem executados pelo algoritmo. Essa forma diferentemente da descrição narrativa não permite ambiguidade ou imprecisão.
 
 ---
 
-## 📌 FLUXOGRAMA
+### 📌 FLUXOGRAMA
 - Os fluxogramas são muito utilizados na criação dos algoritmos, pois um diagrama pode substituir várias palavras, permitindo uma melhor organização, compreensão e visualização dos passos a serem seguidos. Nesse tipo de concepção, as formas geométricas padronizadas são ligadas por setas de fluxo para indicar as diversas instruções e decisões que devem ser as mais seguidas com o objetivo de resolver o problema em questão.
 
 ---
 
-![Imagem](/assets/img\slide_27_a4a1f8.png)
+![Imagem](/assets/img/slide_27_a4a1f8.png)
 
-## 📌 FLUXOGRAMA
+### 📌 FLUXOGRAMA
 
 
 ---
 
-## 📌 FLUXOGRAMA
+### 📌 FLUXOGRAMA
 ```cJá as desvantagens são as seguintes: os dados podem não ser suficientemente detalhados, dificultando, assim, a transcrição do algoritmo para o programa a ser desenvolvido; é necessário aprender a simbologia dos fluxogramas; e, para algoritmos mais extensos, a construção do fluxograma pode se tornar mais complicada.
 
 ---
 
-## 📌 SITUAÇÃO-PROBLEMA 01
+### 📌 SITUAÇÃO-PROBLEMA 01
 
 
 ---
 
 ![Imagem](/assets/img\slide_30_c50bab.png)
 
-## 📌 SITUAÇÃO-PROBLEMA 02
+### 📌 SITUAÇÃO-PROBLEMA 02
 
 ---
 
-## 📌 PORTUGOL
+### 📌 PORTUGOL
 - O Português Estruturado, também conhecido na literatura como Portugol, Pseudocódigo ou Pseudolinguagem, é uma ferramenta muito utilizada para o ensino de lógica de programação para iniciantes. Essa forma de representação de algoritmos utiliza uma linguagem intermediária entre a linguagem natural (português, entre outras) e uma linguagem de programação (C, Java, Python, entre outras) para descrever os algoritmos.
 
 ---
 
-## 📌 PORTUGOL
+### 📌 PORTUGOL
 - O Portugol possui uma linguagem bastante simplificada, entretanto, ele possui todos os elementos básicos e uma estrutura semelhante a de uma linguagem de programação de computadores. Na disciplina de Algoritmo e Lógica de Programação iremos utilizar uma ferramenta chamada VisualG para construir e testar os algoritmos criados em Portugol.
 
 ---
 
 ![Imagem](/assets/img\slide_33_d60693.png)
 
-## 📌 SITUAÇÃO-PROBLEMA 01
+### 📌 SITUAÇÃO-PROBLEMA 01
 
 ---
 
 ![Imagem](/assets/img\slide_34_50a2f7.png)
 
-## 📌 SITUAÇÃO-PROBLEMA 02
+### 📌 SITUAÇÃO-PROBLEMA 02
 
 ---
 
-## 📌 PORTUGOL
+### 📌 PORTUGOL
 - O Portugol possui algumas desvantagens, como: precisamos aprender as regras dessa forma de representação. Além disso, não há uma padronização de sua estruturação na literatura, isso quer dizer que, você encontrará um mesmo termo descrito de formas diferentes.
 
 ---
