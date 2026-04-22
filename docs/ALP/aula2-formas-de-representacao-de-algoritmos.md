@@ -5,7 +5,7 @@
 <p align="justify">Todos os dias, nós nos deparamos com problemas a serem resolvidos, como por exemplo: Qual o melhor caminho da sua casa até a faculdade? Para encontrar o melhor caminho, diferentes estratégias poderiam ser definidas. </p>
 
 <p align="center">
-  <img src="/assets/img/image01.png" width="60%">
+  <img src="/assets/images/image01.png" width="60%">
 </p>
 
 <p align="justify">Algumas pessoas poderiam utilizar um mapa e calcular a distância total a ser percorrida pelos caminhos possíveis e determinar o caminho mais curto. Outras pessoas iriam verificar informações como tráfego de carros e custo de pedágios para determinar o caminho mais rápido e/ou mais barato.</p>
@@ -63,7 +63,7 @@ border-radius:8px;
 <p align="justify"> Durante o processo de construção de um algoritmo deve-se definir 3 etapas principais, sendo estas: Entrada (Fase 1), Processamento (Fase 2) e Saída (Fase 3). Na imagem abaixo serão apresentadas cada uma das etapas bem como suas definições.</p>
 
 <p align="center">
-  <img src="/assets/img/image02.png" width="60%"> </p>
+  <img src="/assets/images/image02.png" width="60%"> </p>
 
 <p align="justify">Para ilustrar o processo de construção de algoritmos e como executar cada uma das 3 etapas principais, observe e reflita sobre a situação-problema 1 e 2 que são apresentadas a seguir: </P>
 
@@ -80,7 +80,7 @@ border-radius:8px;
 <P align="justify"> Ana é uma jovem universitária que mora atualmente sozinha e como passa muito tempo na faculdade acaba preparando pratos rápidos na cozinha. Deseja preparar uma omelete para o jantar e possui os seguintes ingredientes em casa: 2 ovos, sal, presunto, queijo e tempero verde. Como Ana poderia criar um algoritmo para auxiliá-la na tarefa de preparar uma omelete? </p>
 
 <p align="center">
-  <img src="/assets/img/image03.png" width="60%"> </p>
+  <img src="/assets/images/image03.png" width="60%"> </p>
 
 </div>
 
