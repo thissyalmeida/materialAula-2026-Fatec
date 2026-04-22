@@ -1,24 +1,53 @@
-site_name: Conteúdos de Aula
+site_name: Conteúdos de Aulaa
 
 theme:
   name: material
   language: pt-BR
+
   palette:
     - scheme: default
-      primary: blue
+      primary: red
       accent: indigo
       toggle:
         icon: material/weather-night
         name: Modo escuro
+
     - scheme: slate
-      primary: blue
+      primary: red
       accent: indigo
       toggle:
         icon: material/weather-sunny
         name: Modo claro
 
+# EXTENSÕES IMPORTANTES
+markdown_extensions:
+  - attr_list
+  - tables
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.details
+
+# CSS PERSONALIZADO
+extra_css:
+  - docs/assets/stylesheets/style.css
+
 nav:
   - Início: index.md
-  - DW1:
+
+  - ALP:
       - Visão Geral: ALP/index.md
-      - Aula 1 - HTML: ALP/aula1-introducao.md
+      - Aula 1 - Lógica e Raciocínio: ALP/aula1-logica-raciocinio.md
+      - Aula 2 - Formas de Representação de Algoritmos: ALP/aula2-formas-de-representacao-de-algoritmos.md
+
+  - ED:
+      - Visão Geral: ED/index.md
+      - Aula 1 - Introdução: ED/aula1-introducao.md
+
+  - MPC:
+      - Visão Geral: MPC/index.md
+      - Aula 1 - Introdução: MPC/aula1-introducao.md
+
+  - PLN:
+      - Visão Geral: PLN/index.md
+      - Aula 1 - Introdução: PLN/aula1-introducao.md
