@@ -5,7 +5,7 @@
 <p align="justify">Todos os dias, nós nos deparamos com problemas a serem resolvidos, como por exemplo: Qual o melhor caminho da sua casa até a faculdade? Para encontrar o melhor caminho, diferentes estratégias poderiam ser definidas. </p>
 
 <p align="center">
-  <img src="/assets/img/image01.png" width="60%">
+  <img src="../../assets/img/image01.png" width="60%">
 </p>
 
 <p align="justify">Algumas pessoas poderiam utilizar um mapa e calcular a distância total a ser percorrida pelos caminhos possíveis e determinar o caminho mais curto. Outras pessoas iriam verificar informações como tráfego de carros e custo de pedágios para determinar o caminho mais rápido e/ou mais barato.</p>
@@ -63,7 +63,7 @@ border-radius:8px;
 <p align="justify"> Durante o processo de construção de um algoritmo deve-se definir 3 etapas principais, sendo estas: Entrada (Fase 1), Processamento (Fase 2) e Saída (Fase 3). Na imagem abaixo serão apresentadas cada uma das etapas bem como suas definições.</p>
 
 <p align="center">
-  <img src="/assets/img/image02.png" width="60%"> </p>
+  <img src="../../assets/img/image02.png" width="60%"> </p>
 
 <p align="justify">Para ilustrar o processo de construção de algoritmos e como executar cada uma das 3 etapas principais, observe e reflita sobre a situação-problema 1 e 2 que são apresentadas a seguir: </P>
 
@@ -80,7 +80,7 @@ border-radius:8px;
 <P align="justify"> Ana é uma jovem universitária que mora atualmente sozinha e como passa muito tempo na faculdade acaba preparando pratos rápidos na cozinha. Deseja preparar uma omelete para o jantar e possui os seguintes ingredientes em casa: 2 ovos, sal, presunto, queijo e tempero verde. Como Ana poderia criar um algoritmo para auxiliá-la na tarefa de preparar uma omelete? </p>
 
 <p align="center">
-  <img src="/assets/img/image03.png" width="60%"> </p>
+  <img src="../../assets/img/image03.png" width="60%"> </p>
 
 </div>
 
@@ -97,7 +97,7 @@ border-radius:8px;
 <p align="justify"> Maria investiu suas economias em uma banca de revistas em quadrinhos que fica localizada no centro da cidade. Pretende organizar as publicações nas 5 estantes da banca para melhorar o atendimento. Nos primeiros meses, percebeu que os seus clientes costumam comprar as edições com base nos seguintes gêneros: fantasia, terror, comédia, romance e super-heróis. Qual a sequência de passos que Maria deve executar para conseguir organizar a sua banca de revistas em quadrinhos? </p>
 
 <p align="center">
-  <img src="/assets/img/image04.png" width="60%"> </p>
+  <img src="../../assets/img/image04.png" width="60%"> </p>
 
 </div>
 
@@ -125,7 +125,7 @@ border-radius:8px;
 <P align="justify"> Ana é uma jovem universitária que mora atualmente sozinha e como passa muito tempo na faculdade acaba preparando pratos rápidos na cozinha. Deseja preparar uma omelete para o jantar e possui os seguintes ingredientes em casa: 2 ovos, sal, presunto, queijo e tempero verde. Como Ana poderia criar um algoritmo para auxiliá-la na tarefa de preparar uma omelete? </p>
 
 <p align="center">
-  <img src="/assets/img/slide_23_fb1408.png" width="60%"> </p>
+  <img src="../../assets/img/slide_23_fb1408.png" width="60%"> </p>
 
 <ol>
   <li>teste</li>
@@ -146,7 +146,7 @@ border-radius:8px;
 <p align="justify"> Maria investiu suas economias em uma banca de revistas em quadrinhos que fica localizada no centro da cidade. Pretende organizar as publicações nas 5 estantes da banca para melhorar o atendimento. Nos primeiros meses, percebeu que os seus clientes costumam comprar as edições com base nos seguintes gêneros: fantasia, terror, comédia, romance e super-heróis. Qual a sequência de passos que Maria deve executar para conseguir organizar a sua banca de revistas em quadrinhos? </p>
 
 <p align="center">
-  <img src="/assets/img/slide_24_e34b6f.png" width="60%"> </p>
+  <img src="../../assets/img/slide_24_e34b6f.png" width="60%"> </p>
 
 </div>
 
@@ -160,7 +160,7 @@ border-radius:8px;
 
 ---
 
-![Imagem](/assets/img/slide_27_a4a1f8.png)
+![Imagem](../../assets/img/slide_27_a4a1f8.png)
 
 ### 📌 FLUXOGRAMA
 
@@ -177,7 +177,7 @@ border-radius:8px;
 
 ---
 
-![Imagem](/assets/img\slide_30_c50bab.png)
+![Imagem](../../assets/img/slide_30_c50bab.png)
 
 ### 📌 SITUAÇÃO-PROBLEMA 02
 
@@ -193,13 +193,13 @@ border-radius:8px;
 
 ---
 
-![Imagem](/assets/img\slide_33_d60693.png)
+![Imagem](../../assets/img/slide_33_d60693.png)
 
 ### 📌 SITUAÇÃO-PROBLEMA 01
 
 ---
 
-![Imagem](/assets/img\slide_34_50a2f7.png)
+![Imagem](../../assets/img/slide_34_50a2f7.png)
 
 ### 📌 SITUAÇÃO-PROBLEMA 02
 
@@ -210,11 +210,11 @@ border-radius:8px;
 
 ---
 🧪 FIXAÇÃO – FAÇAMOS JUNTOS!<div class="quiz-box"> <form><label> <input type="radio" name="quiz"> 37 </label><br> <br><button type="button" onclick="alert('Resposta registrada!')">✔️ Verificar</button> </form> </div>
-![Imagem](/assets/img\slide_37_10fc14.png)
+![Imagem](../../assets/img/slide_37_10fc14.png)
 🧪 PRATIQUE 01<div class="quiz-box"> <form><label> <input type="radio" name="quiz"> Faça um algoritmo para a tarefa “Preparar miojo” e represente a sua solução utilizando os conceitos de “Fluxograma” e “Descrição narrativa”. </label><br> <label> <input type="radio" name="quiz"> 38 </label><br> <br><button type="button" onclick="alert('Resposta registrada!')">✔️ Verificar</button> </form> </div>
-![Imagem](/assets/img\slide_38_c07448.png)
+![Imagem](../../assets/img/slide_38_c07448.png)
 🧪 PRATIQUE 02<div class="quiz-box"> <form><label> <input type="radio" name="quiz"> Faça um algoritmo para a tarefa “Calcular média” utilizando a forma de representação “Português Estruturado”. Para isso, utilize como base o funcionamento descrito no fluxograma ao lado. </label><br> <label> <input type="radio" name="quiz"> 39 </label><br> <br><button type="button" onclick="alert('Resposta registrada!')">✔️ Verificar</button> </form> </div>🧪 FIXAÇÃO – FAÇA VOCÊ MESMO!<div class="quiz-box"> <form><label> <input type="radio" name="quiz"> 40 </label><br> <br><button type="button" onclick="alert('Resposta registrada!')">✔️ Verificar</button> </form> </div>
-![Imagem](/assets/img\slide_40_1228be.png)
+![Imagem](../../assets/img/slide_40_1228be.png)
 🧪 PRATIQUE 01<div class="quiz-box"> <form><label> <input type="radio" name="quiz"> Faça um algoritmo utilizando o “Pseudocódigo” para ler dois valores (x e y), calcular e mostrar x elevado a potência de y. </label><br> <label> <input type="radio" name="quiz"> 41 </label><br> <br><button type="button" onclick="alert('Resposta registrada!')">✔️ Verificar</button> </form> </div>
-![Imagem](/assets/img\slide_41_b8337e.png)
+![Imagem](../../assets/img/slide_41_b8337e.png)
 🧪 PRATIQUE 02<div class="quiz-box"> <form><label> <input type="radio" name="quiz"> Faça um algoritmo utilizando o “Pseudocódigo” que leia dois números reais e em seguida mostre: a soma, o produto, a divisão e a subtração entre eles. </label><br> <label> <input type="radio" name="quiz"> 42 </label><br> <br><button type="button" onclick="alert('Resposta registrada!')">✔️ Verificar</button> </form> </div>
