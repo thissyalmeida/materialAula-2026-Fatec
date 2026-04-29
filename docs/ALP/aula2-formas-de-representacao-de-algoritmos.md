@@ -126,11 +126,7 @@ border-radius:8px;
 <P align="justify"> Ana é uma jovem universitária que mora atualmente sozinha e como passa muito tempo na faculdade acaba preparando pratos rápidos na cozinha. Deseja preparar uma omelete para o jantar e possui os seguintes ingredientes em casa: 2 ovos, sal, presunto, queijo e tempero verde. Como Ana poderia criar um algoritmo para auxiliá-la na tarefa de preparar uma omelete? </p>
 
 <p align="center">
-  <img src="../assets/images/slide_23_fb1408.png" width="60%">
-</p>
-
-
-<P align="justify"> <b> Algoritmo "Preparar uma omelete"</b> </p>
+<p align="justify"> <b> Algoritmo "Preparar uma omelete"</b> </p>
 
 <ol>
   <li>Separar os ingredientes.</li>
@@ -143,6 +139,10 @@ border-radius:8px;
   <li>Esperar ficar firme e virar a omelete. </li>
   <li>Colocar a omelete pronta no prato. </li>
 </ol>
+</p>
+
+
+
 
 </div>
 
