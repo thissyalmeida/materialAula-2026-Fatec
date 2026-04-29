@@ -1,6 +1,4 @@
-# 🚀 AULA 02 - ALGORITMOS E SUAS FORMAS DE REPRESENTAÇÃO
-
-## ⚙️ INTRODUÇÃO AOS ALGORITMOS
+# 🚀 AULA 2 - ALGORITMOS E SUAS FORMAS DE REPRESENTAÇÃO
 
 <p align="justify">Todos os dias, nós nos deparamos com problemas a serem resolvidos, como por exemplo: Qual o melhor caminho da sua casa até a faculdade? Para encontrar o melhor caminho, diferentes estratégias poderiam ser definidas. </p>
 
