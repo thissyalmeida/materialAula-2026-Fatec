@@ -1,13 +1,11 @@
-# 🚀 Aula 2 - Formas de representação de algoritmos
+<h1><strong style="color: #EF5552;">Aula 2 - Formas de representação de algoritmos</strong></h1>
 
 <p align="justify">Todos os dias, nós nos deparamos com problemas a serem resolvidos, como por exemplo: Qual o melhor caminho da sua casa até a faculdade? Para encontrar o melhor caminho, diferentes estratégias poderiam ser definidas. </p>
 
 <p align="center">
   <img style="background-color:white;
-border:6px solid #EF5552;
-padding:15px;
-margin:20px 0;
-border-radius:8px;" src="../assets/images/image01.png" width="60%">
+border:6px solid #EF5552; padding:15px; margin:20px 0;
+border-radius:8px;" src="../assets/images/image01.png" width="70%">
 </p>
 
 <p align="justify">Algumas pessoas poderiam utilizar um mapa e calcular a distância total a ser percorrida pelos caminhos possíveis e determinar o caminho mais curto. Outras pessoas iriam verificar informações como tráfego de carros e custo de pedágios para determinar o caminho mais rápido e/ou mais barato.</p>
@@ -41,24 +39,11 @@ border-radius:8px;
 
 <p align="justify">Para que um computador possa desempenhar uma tarefa é necessário que esta seja detalhada, passo a passo, em uma linguagem compreensível pela máquina, por meio de um programa. Um programa de computador é um algoritmo escrito em um formato compreensível pelo computador.  Ao criarmos um algoritmo, nós devemos garantir que ele possua as seguintes propriedades essenciais:</p>
 
-<div style="
-background-color:#FFF5F5;
-border-left:6px solid #EF5552;
-padding:15px;
-margin:20px 0;
-border-radius:8px;
-">
-
-<strong>📦 Características principais de um algoritmo:</strong>
-
-<ul>
-<li> <b>Completo:</b> todas as ações precisam ser descritas e devem ser únicas.</li>
-<li><b>Sem redundância:</b> um conjunto de instruções só pode ter uma única forma de ser interpretada.</li>
-<li><b>Determinístico:</b> se as instruções forem executadas, o resultado esperado será sempre atingido.</li>
-<li><b>Finito:</b> as instruções precisam terminar após um número limitado de passos.</li>
-</ul>
-
-</div>
+<p align="center">
+  <img style="background-color:white;
+border:6px solid #EF5552; padding:15px; margin:20px 0;
+border-radius:8px;" src="../assets/images/image05.png" width="70%">
+</p>
 
 ## 📌 FUNCIONAMENTO DOS ALGORITMOS
 
