@@ -127,7 +127,7 @@ border-radius:8px;
 
 
 <p align="center"> <b> Algoritmo "Preparar uma omelete"</b> </p>
-
+<center>
 <ol>
   <li>Separar os ingredientes.</li>
   <li>Pegar a frigideira e a batedeira. </li>
@@ -139,7 +139,7 @@ border-radius:8px;
   <li>Esperar ficar firme e virar a omelete. </li>
   <li>Colocar a omelete pronta no prato. </li>
 </ol>
-
+</center>
 
 
 
