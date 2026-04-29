@@ -1,10 +1,5 @@
 # 🧠 Aula 1 - Lógica e Raciocínio
 
-<p align="center">
-  <img src="../assets/images/profile.png" width="60%">
-</p>
-
-
 A lógica é um conceito muito mais amplo do que a matemática! Ela está relacionada à coerência e racionalidade do pensamento. Quando pensamos de forma lógica, estamos determinando o que é válido ou não em nossas ideias e ações.
 
 ## 🤔 Como Usamos Lógica?
