@@ -173,22 +173,14 @@ border-radius:8px;
 </div>
 
 ### 📌 FLUXOGRAMA
-- É conhecida na literatura também como Diagrama de Fluxo ou Diagrama de Bloco. São utilizadas formas geométricas padronizadas para descrever a sequência de passos a serem executados pelo algoritmo. Essa forma diferentemente da descrição narrativa não permite ambiguidade ou imprecisão.
 
----
+<p align="justify"> É conhecida na literatura também como Diagrama de Fluxo ou Diagrama de Bloco. São utilizadas formas geométricas padronizadas para descrever a sequência de passos a serem executados pelo algoritmo. Essa forma diferentemente da descrição narrativa não permite ambiguidade ou imprecisão.</p>
 
-### 📌 FLUXOGRAMA
-- Os fluxogramas são muito utilizados na criação dos algoritmos, pois um diagrama pode substituir várias palavras, permitindo uma melhor organização, compreensão e visualização dos passos a serem seguidos. Nesse tipo de concepção, as formas geométricas padronizadas são ligadas por setas de fluxo para indicar as diversas instruções e decisões que devem ser as mais seguidas com o objetivo de resolver o problema em questão.
-
----
+<p align="justify"> Os fluxogramas são muito utilizados na criação dos algoritmos, pois um diagrama pode substituir várias palavras, permitindo uma melhor organização, compreensão e visualização dos passos a serem seguidos. Nesse tipo de concepção, as formas geométricas padronizadas são ligadas por setas de fluxo para indicar as diversas instruções e decisões que devem ser as mais seguidas com o objetivo de resolver o problema em questão. </p>
 
 <p align="center">
   <img src="../assets/images/slide_27_a4a1f8.png" width="60%">
 </p>
-
-### 📌 FLUXOGRAMA
-
----
 
 ### 📌 FLUXOGRAMA
 Já as desvantagens são as seguintes: os dados podem não ser suficientemente detalhados, dificultando, assim, a transcrição do algoritmo para o programa a ser desenvolvido; é necessário aprender a simbologia dos fluxogramas; e, para algoritmos mais extensos, a construção do fluxograma pode se tornar mais complicada.
