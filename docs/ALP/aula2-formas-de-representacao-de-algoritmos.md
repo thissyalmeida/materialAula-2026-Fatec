@@ -172,7 +172,7 @@ border-radius:8px;
 
 </div>
 
-### 📌 FLUXOGRAMA
+### FLUXOGRAMA
 
 <p align="justify"> É conhecida na literatura também como Diagrama de Fluxo ou Diagrama de Bloco. São utilizadas formas geométricas padronizadas para descrever a sequência de passos a serem executados pelo algoritmo. Essa forma diferentemente da descrição narrativa não permite ambiguidade ou imprecisão.</p>
 
@@ -182,14 +182,10 @@ border-radius:8px;
   <img src="../assets/images/slide_27_a4a1f8.png" width="60%">
 </p>
 
-### 📌 FLUXOGRAMA
-Já as desvantagens são as seguintes: os dados podem não ser suficientemente detalhados, dificultando, assim, a transcrição do algoritmo para o programa a ser desenvolvido; é necessário aprender a simbologia dos fluxogramas; e, para algoritmos mais extensos, a construção do fluxograma pode se tornar mais complicada.
+<p align="justify">Já as desvantagens são as seguintes: os dados podem não ser suficientemente detalhados, dificultando, assim, a transcrição do algoritmo para o programa a ser desenvolvido; é necessário aprender a simbologia dos fluxogramas; e, para algoritmos mais extensos, a construção do fluxograma pode se tornar mais complicada. </p>
 
----
 
 ### 📌 SITUAÇÃO-PROBLEMA 01
-
----
 
 <p align="center">
   <img src="../assets/images/slide_30_c50bab.png" width="60%">
@@ -197,17 +193,15 @@ Já as desvantagens são as seguintes: os dados podem não ser suficientemente d
 
 ### 📌 SITUAÇÃO-PROBLEMA 02
 
----
+<p align="center">
+  <img src="../assets/images/image01.png" width="60%">
+</p>
 
-### 📌 PORTUGOL
-- O Português Estruturado, também conhecido na literatura como Portugol, Pseudocódigo ou Pseudolinguagem, é uma ferramenta muito utilizada para o ensino de lógica de programação para iniciantes. Essa forma de representação de algoritmos utiliza uma linguagem intermediária entre a linguagem natural (português, entre outras) e uma linguagem de programação (C, Java, Python, entre outras) para descrever os algoritmos.
+### PORTUGOL
 
----
+<p align="justify"> O Português Estruturado, também conhecido na literatura como Portugol, Pseudocódigo ou Pseudolinguagem, é uma ferramenta muito utilizada para o ensino de lógica de programação para iniciantes. Essa forma de representação de algoritmos utiliza uma linguagem intermediária entre a linguagem natural (português, entre outras) e uma linguagem de programação (C, Java, Python, entre outras) para descrever os algoritmos.</p>
 
-### 📌 PORTUGOL
-- O Portugol possui uma linguagem bastante simplificada, entretanto, ele possui todos os elementos básicos e uma estrutura semelhante a de uma linguagem de programação de computadores. Na disciplina de Algoritmo e Lógica de Programação iremos utilizar uma ferramenta chamada VisualG para construir e testar os algoritmos criados em Portugol.
-
----
+<p align="justify">O Portugol possui uma linguagem bastante simplificada, entretanto, ele possui todos os elementos básicos e uma estrutura semelhante a de uma linguagem de programação de computadores. Na disciplina de Algoritmo e Lógica de Programação iremos utilizar uma ferramenta chamada VisualG para construir e testar os algoritmos criados em Portugol.</p>
 
 <p align="center">
   <img src="../assets/images/slide_33_d60693.png" width="60%">
@@ -215,26 +209,20 @@ Já as desvantagens são as seguintes: os dados podem não ser suficientemente d
 
 ### 📌 SITUAÇÃO-PROBLEMA 01
 
----
-
 <p align="center">
   <img src="../assets/images/slide_34_50a2f7.png" width="60%">
 </p>
 
 ### 📌 SITUAÇÃO-PROBLEMA 02
 
----
+<p align="center">
+  <img src="../assets/images/slide_34_50a2f7.png" width="60%">
+</p>
 
-### 📌 PORTUGOL
-- O Portugol possui algumas desvantagens, como: precisamos aprender as regras dessa forma de representação. Além disso, não há uma padronização de sua estruturação na literatura, isso quer dizer que, você encontrará um mesmo termo descrito de formas diferentes.
+<p align="justify">O Portugol possui algumas desvantagens, como: precisamos aprender as regras dessa forma de representação. Além disso, não há uma padronização de sua estruturação na literatura, isso quer dizer que, você encontrará um mesmo termo descrito de formas diferentes.</p>
 
----
 
 ## 🧪 FIXAÇÃO – FAÇAMOS JUNTOS!
-
-<p align="center">
-  <img src="../assets/images/slide_37_10fc14.png" width="60%">
-</p>
 
 ## 🧪 PRATIQUE 01
 
@@ -249,10 +237,6 @@ Já as desvantagens são as seguintes: os dados podem não ser suficientemente d
 <p align="justify">Faça um algoritmo para a tarefa "Calcular média" utilizando a forma de representação "Português Estruturado". Para isso, utilize como base o funcionamento descrito no fluxograma ao lado.</p>
 
 ## 🧪 FIXAÇÃO – FAÇA VOCÊ MESMO!
-
-<p align="center">
-  <img src="../assets/images/slide_40_1228be.png" width="60%">
-</p>
 
 ## 🧪 PRATIQUE 01
 
