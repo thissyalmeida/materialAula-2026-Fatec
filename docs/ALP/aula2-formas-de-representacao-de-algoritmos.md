@@ -203,13 +203,24 @@ border-radius:8px;
 
 <p align="justify">O Portugol possui uma linguagem bastante simplificada, entretanto, ele possui todos os elementos básicos e uma estrutura semelhante a de uma linguagem de programação de computadores. Na disciplina de Algoritmo e Lógica de Programação iremos utilizar uma ferramenta chamada VisualG para construir e testar os algoritmos criados em Portugol.</p>
 
-### 📌 SITUAÇÃO-PROBLEMA 01
+<div style="
+background-color:#FFF5F5;
+border-left:6px solid #EF5552;
+padding:15px;
+margin:20px 0;
+border-radius:8px;
+">
+
+<strong>📦 SITUAÇÃO-PROBLEMA 01: ALGORITMO PREPARAR OMELETE</strong>
+
+<P align="justify"> Ana é uma jovem universitária que mora atualmente sozinha e como passa muito tempo na faculdade acaba preparando pratos rápidos na cozinha. Deseja preparar uma omelete para o jantar e possui os seguintes ingredientes em casa: 2 ovos, sal, presunto, queijo e tempero verde. Como Ana poderia criar um algoritmo para auxiliá-la na tarefa de preparar uma omelete? </p>
 
 <p align="center">
   <img src="../assets/images/slide_33_d60693.png" width="60%">
 </p>
 
-### 📌 SITUAÇÃO-PROBLEMA 02
+</div>
+
 
 <div style="
 background-color:#FFF5F5;
@@ -228,8 +239,6 @@ border-radius:8px;
 </p>
 
 </div>
-
-
 
 <p align="justify">O Portugol possui algumas desvantagens, como: precisamos aprender as regras dessa forma de representação. Além disso, não há uma padronização de sua estruturação na literatura, isso quer dizer que, você encontrará um mesmo termo descrito de formas diferentes.</p>
 
