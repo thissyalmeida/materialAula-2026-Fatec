@@ -1,4 +1,4 @@
-# 🚀 Aula 2 - Algoritmos e formas de representação
+# 🚀 Aula 2 - Algoritmos e Formas de Representação
 
 <p align="justify">Todos os dias, nós nos deparamos com problemas a serem resolvidos, como por exemplo: Qual o melhor caminho da sua casa até a faculdade? Para encontrar o melhor caminho, diferentes estratégias poderiam ser definidas. </p>
 
