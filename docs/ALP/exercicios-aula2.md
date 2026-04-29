@@ -1,4 +1,4 @@
-## 🧪 FIXAÇÃO – FAÇAMOS JUNTOS!
+# 🧪 FIXAÇÃO – FAÇAMOS JUNTOS!
 
 ## 🧪 PRATIQUE 01
 
