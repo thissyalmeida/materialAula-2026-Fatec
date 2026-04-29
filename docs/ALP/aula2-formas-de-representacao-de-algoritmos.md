@@ -1,4 +1,4 @@
-# 🚀 Aula 2 - Algoritmos e Formas de representação
+# 🚀 Aula 2 - Formas de representação de algoritmos
 
 <p align="justify">Todos os dias, nós nos deparamos com problemas a serem resolvidos, como por exemplo: Qual o melhor caminho da sua casa até a faculdade? Para encontrar o melhor caminho, diferentes estratégias poderiam ser definidas. </p>
 
@@ -198,15 +198,28 @@ border-radius:8px;
 <P align="justify"> Ana é uma jovem universitária que mora atualmente sozinha e como passa muito tempo na faculdade acaba preparando pratos rápidos na cozinha. Deseja preparar uma omelete para o jantar e possui os seguintes ingredientes em casa: 2 ovos, sal, presunto, queijo e tempero verde. Como Ana poderia criar um algoritmo para auxiliá-la na tarefa de preparar uma omelete? </p>
 
 <p align="center">
-  <img src="../assets/images/slide_30_c50bab.png" width="60%">
+  <img src="../assets/images/fluxograma1.png" width="60%">
 </p>
+
 </div>
 
-### 📌 SITUAÇÃO-PROBLEMA 02
+<div style="
+background-color:#FFF5F5;
+border-left:6px solid #EF5552;
+padding:15px;
+margin:20px 0;
+border-radius:8px;
+">
+
+<strong>📦 SITUAÇÃO-PROBLEMA 02: ORGANIZAR REVISTAS</strong>
+
+<p align="justify"> Maria investiu suas economias em uma banca de revistas em quadrinhos que fica localizada no centro da cidade. Pretende organizar as publicações nas 5 estantes da banca para melhorar o atendimento. Nos primeiros meses, percebeu que os seus clientes costumam comprar as edições com base nos seguintes gêneros: fantasia, terror, comédia, romance e super-heróis. Qual a sequência de passos que Maria deve executar para conseguir organizar a sua banca de revistas em quadrinhos? </p>
 
 <p align="center">
-  <img src="../assets/images/image01.png" width="60%">
+  <img src="../assets/images/slide_30_c50bab.png" width="60%">
 </p>
+
+</div>
 
 ### PORTUGOL
 
