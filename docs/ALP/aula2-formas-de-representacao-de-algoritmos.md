@@ -1,4 +1,4 @@
-# 🚀 Aula 2 - Algoritmos e Formas de Representação
+# 🚀 Aula 2 - Algoritmos e Formas de representação
 
 <p align="justify">Todos os dias, nós nos deparamos com problemas a serem resolvidos, como por exemplo: Qual o melhor caminho da sua casa até a faculdade? Para encontrar o melhor caminho, diferentes estratégias poderiam ser definidas. </p>
 
@@ -130,7 +130,9 @@ border-radius:8px;
 </p>
 
 <ol>
-  <li>teste</li>
+  <li>Separar os ingredientes.</li>
+  <li>Pegar a frigideira e a batedeira. </li>
+  <li>Bater os dois ovos na batedeira. </li>
 </ol>
 
 </div>
