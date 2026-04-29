@@ -32,7 +32,7 @@ markdown_extensions:
 
 # CSS PERSONALIZADO
 extra_css:
-  - docs/assets/stylesheets/style.css
+  - assets/stylesheets/style.css
 
 nav:
   - Início: index.md
