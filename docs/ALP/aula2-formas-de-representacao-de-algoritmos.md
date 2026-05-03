@@ -45,12 +45,16 @@ border:6px solid #EF5552; padding:15px; margin:20px 0;
 border-radius:8px;" src="../assets/images/image05.png" width="70%">
 </p>
 
+<p align="justify">Seguindo essas características, um algoritmo é claro, eficiente e sempre leva ao resultado esperado. </p>
+
 ## 📌 FUNCIONAMENTO DOS ALGORITMOS
 
 <p align="justify"> Durante o processo de construção de um algoritmo deve-se definir 3 etapas principais, sendo estas: Entrada (Fase 1), Processamento (Fase 2) e Saída (Fase 3). Na imagem abaixo serão apresentadas cada uma das etapas bem como suas definições.</p>
 
 <p align="center">
-  <img src="../assets/images/image02.png" width="60%">
+  <img style="background-color:white;
+border:6px solid #EF5552; padding:15px; margin:20px 0;
+border-radius:8px;" src="../assets/images/image02.png" width="70%">
 </p>
 
 <p align="justify">Para ilustrar o processo de construção de algoritmos e como executar cada uma das 3 etapas principais, observe e reflita sobre a situação-problema 1 e 2 que são apresentadas a seguir: </P>
@@ -63,12 +67,14 @@ margin:20px 0;
 border-radius:8px;
 ">
 
-<strong>📦 SITUAÇÃO-PROBLEMA 01:</strong>
+<strong>📦 SITUAÇÃO-PROBLEMA 01:ALGORITMO PREPARAR OMELETE</strong>
 
 <P align="justify"> Ana é uma jovem universitária que mora atualmente sozinha e como passa muito tempo na faculdade acaba preparando pratos rápidos na cozinha. Deseja preparar uma omelete para o jantar e possui os seguintes ingredientes em casa: 2 ovos, sal, presunto, queijo e tempero verde. Como Ana poderia criar um algoritmo para auxiliá-la na tarefa de preparar uma omelete? </p>
 
 <p align="center">
-  <img src="../assets/images/image03.png" width="60%">
+  <img style="background-color:white;
+border:6px solid #EF5552; padding:15px; margin:20px 0;
+border-radius:8px;" src="../assets/images/image03.png" width="70%">
 </p>
 
 </div>
@@ -81,12 +87,14 @@ margin:20px 0;
 border-radius:8px;
 ">
 
-<strong>📦 SITUAÇÃO-PROBLEMA 02:</strong>
+<strong>📦 SITUAÇÃO-PROBLEMA 02: ORGANIZAR REVISTAS</strong>
 
 <p align="justify"> Maria investiu suas economias em uma banca de revistas em quadrinhos que fica localizada no centro da cidade. Pretende organizar as publicações nas 5 estantes da banca para melhorar o atendimento. Nos primeiros meses, percebeu que os seus clientes costumam comprar as edições com base nos seguintes gêneros: fantasia, terror, comédia, romance e super-heróis. Qual a sequência de passos que Maria deve executar para conseguir organizar a sua banca de revistas em quadrinhos? </p>
 
 <p align="center">
-  <img src="../assets/images/image04.png" width="60%">
+  <img style="background-color:white;
+border:6px solid #EF5552; padding:15px; margin:20px 0;
+border-radius:8px;" src="../assets/images/image04.png" width="70%">
 </p>
 
 </div>
@@ -115,22 +123,10 @@ border-radius:8px;
 <P align="justify"> Ana é uma jovem universitária que mora atualmente sozinha e como passa muito tempo na faculdade acaba preparando pratos rápidos na cozinha. Deseja preparar uma omelete para o jantar e possui os seguintes ingredientes em casa: 2 ovos, sal, presunto, queijo e tempero verde. Como Ana poderia criar um algoritmo para auxiliá-la na tarefa de preparar uma omelete? </p>
 
 
-<p align="center"> <b> Algoritmo "Preparar uma omelete"</b> </p>
-<center>
-<ol>
-  <li>Separar os ingredientes.</li>
-  <li>Pegar a frigideira e a batedeira. </li>
-  <li>Bater os dois ovos na batedeira. </li>
-  <li>Untar a frigideira com o óleo. </li>
-  <li>Despejar os ovos batidos na frigideira. </li>
-  <li>Picar o presunto e o queijo. </li>
-  <li>Colocar o presunto, o queijo e o tempero verde a gosto. </li>
-  <li>Esperar ficar firme e virar a omelete. </li>
-  <li>Colocar a omelete pronta no prato. </li>
-</ol>
-</center>
 
-
+<p align="center">
+  <img src="../assets/images/descnarrativa01.png" width="60%">
+</p>
 
 </div>
 
