@@ -127,7 +127,7 @@ border-radius:8px;
 <p align="center">
   <img style="background-color:white;
 border:6px solid #EF5552; padding:15px; margin:20px 0;
-border-radius:8px;" src="../assets/images/descnarrativa01.png" width="70%">
+border-radius:8px;" src="../assets/images/descnarrativa01.png" width="60%">
 </p>
 
 </div>
@@ -147,7 +147,7 @@ border-radius:8px;
 <p align="center">
   <img style="background-color:white;
 border:6px solid #EF5552; padding:15px; margin:20px 0;
-border-radius:8px;" src="../assets/images/descnarrativa02.png" width="70%">
+border-radius:8px;" src="../assets/images/descnarrativa02.png" width="80%">
 </p>
 
 </div>
@@ -159,7 +159,9 @@ border-radius:8px;" src="../assets/images/descnarrativa02.png" width="70%">
 <p align="justify"> Os fluxogramas são muito utilizados na criação dos algoritmos, pois um diagrama pode substituir várias palavras, permitindo uma melhor organização, compreensão e visualização dos passos a serem seguidos. Nesse tipo de concepção, as formas geométricas padronizadas são ligadas por setas de fluxo para indicar as diversas instruções e decisões que devem ser as mais seguidas com o objetivo de resolver o problema em questão. </p>
 
 <p align="center">
-  <img src="../assets/images/slide_27_a4a1f8.png" width="60%">
+  <img style="background-color:white;
+border:6px solid #EF5552; padding:15px; margin:20px 0;
+border-radius:8px;" src="../assets/images/fluxograma.png" width="70%">
 </p>
 
 <p align="justify">Já as desvantagens são as seguintes: os dados podem não ser suficientemente detalhados, dificultando, assim, a transcrição do algoritmo para o programa a ser desenvolvido; é necessário aprender a simbologia dos fluxogramas; e, para algoritmos mais extensos, a construção do fluxograma pode se tornar mais complicada. </p>
